@@ -2,8 +2,8 @@
 
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
-![Kodluyoruz.org](https://github.com/nagodretrem/kodluyoruzilkrepo\img\kodluyoruz.jpg)
-![Patika.dev](https://github.com/nagodretrem/kodluyoruzilkrepo\img\patikaLogo.png)
+![Kodluyoruz.org](https://github.com/nagodretrem/kodluyoruzilkrepo/blob/main/img/kodluyoruz.jpg)
+![Patika.dev](https://github.com/nagodretrem/kodluyoruzilkrepo/blob/main/img/patikaLogo.png)
 
 ## Installation
 
